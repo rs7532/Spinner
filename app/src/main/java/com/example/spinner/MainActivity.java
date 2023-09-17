@@ -27,6 +27,7 @@ import android.widget.TextView;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         Continents = new String[]{"Europe", "Asia", "Africa", "North America", "South America"};
 
         Capital_tv = findViewById(R.id.Capital_tv);
